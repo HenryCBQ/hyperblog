@@ -9,6 +9,7 @@ body
 }
 #container 
 {
+    background: whitesmoke;
     width: 70%;
     padding: 1em;
     text-align: left;
