@@ -11,5 +11,6 @@ En el curso se vio:
 * Personalidades raras del profesor
 * Creado por un curso de platzi.
 * Incluye ejemplos en sistemas operativos Windows, Linux y Mac.
+* Disponible en todas las edades.
 
 Amable recordatorio **Este readme es un chiste**.
