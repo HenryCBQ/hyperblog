@@ -9,5 +9,6 @@ En el curso se vio:
 * Buenas prácticas
 * Trucos raros del profesor
 * Personalidades raras del profesor
+* Creado por un curso de platzi.
 
 Amable recordatorio **Este readme es un chiste**.
